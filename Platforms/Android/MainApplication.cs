@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Targe21Calculator;
+namespace MauiScientificCalculator;
 
 [Application]
 public class MainApplication : MauiApplication

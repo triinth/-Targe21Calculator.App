@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace Targe21Calculator;
+namespace MauiScientificCalculator;
 
 class Program : MauiApplication
 {

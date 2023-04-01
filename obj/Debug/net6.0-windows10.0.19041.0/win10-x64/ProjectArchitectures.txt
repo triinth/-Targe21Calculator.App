@@ -1,0 +1,1 @@
+C:\Users\triin\source\repos\Targe21Calculator\MauiScientificCalculator\MauiScientificCalculator.csproj;x64

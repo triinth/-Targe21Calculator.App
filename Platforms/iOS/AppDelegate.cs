@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Targe21Calculator;
+namespace MauiScientificCalculator;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

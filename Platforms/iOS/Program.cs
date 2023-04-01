@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Targe21Calculator;
+namespace MauiScientificCalculator;
 
 public class Program
 {
